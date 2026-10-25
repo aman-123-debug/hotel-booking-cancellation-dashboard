@@ -1,0 +1,44 @@
+Hotel Booking & Cancellation Dashboard
+
+Project Overview
+This project analyzes hotel booking data using Microsoft Power BI to understand booking patterns, cancellations, and customer behavior.
+
+Objectives
+- Analyze total hotel bookings.
+- Understand booking cancellation patterns.
+- Compare City Hotel and Resort Hotel performance.
+- Identify trends in booking lead time and average daily rate (ADR).
+
+Tools Used
+- Microsoft Power BI
+- CSV Dataset
+- Microsoft Excel (if used)
+
+Key Performance Indicators (KPIs)
+- Total Bookings
+- Total Cancellations
+- Cancellation Rate
+- Average Daily Rate (ADR)
+- Average Lead Time
+
+Dashboard Preview
+![Hotel Booking Dashboard](screenshots/dashboard-overview.png)
+
+Key Insights
+Add the main findings from your own Power BI dashboard here.
+
+Files Included
+- Power BI dashboard (.pbix)
+- Hotel booking dataset (.csv)
+- Dashboard screenshots
+
+How to Use
+1. Download the `.pbix` file.
+2. Open it using Microsoft Power BI Desktop.
+3. If prompted, update the dataset file path to the downloaded CSV file.
+4. Refresh the data if required.
+
+Author Aman Kumar Mahato
+B.Tech Computer Science and Engineering (CSE)
+Final-Year Student
+Asansol Engineering College
